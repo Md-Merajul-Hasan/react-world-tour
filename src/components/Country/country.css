@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid skyblue;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+}
+.visited{
+    background-color: aquamarine;
+}
