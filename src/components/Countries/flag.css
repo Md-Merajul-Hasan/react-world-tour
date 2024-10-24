@@ -1,0 +1,8 @@
+.flags-container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+.flags-container img{
+    width: 50px;
+    height: 40px;
+}
